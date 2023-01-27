@@ -8,7 +8,7 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 Note: Use Python version: 3.8.5
 
 # Features
- _click on dropdown to know more_ <br>
+ _click on dropdown button to know more_ <br>
 
 ### Gesture Recognition:
 <details>
@@ -196,7 +196,7 @@ Note: Use Python version: 3.8.5
 
 # Getting Started
 
-  ### Pre-requisites
+  ### Pre-requisites:
   
   Python: (3.6 - 3.8.5)<br>
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
